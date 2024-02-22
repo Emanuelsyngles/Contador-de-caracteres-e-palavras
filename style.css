@@ -48,4 +48,10 @@ textarea {
     border-radius: 5px;
     border: none;
     cursor: pointer;
+    transition: .3s;
+}
+
+#toggle:hover {
+    background-color: rgb(12, 75, 170);
+    color: rgb(192, 251, 255);
 }
