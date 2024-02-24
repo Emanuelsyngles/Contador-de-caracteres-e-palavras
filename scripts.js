@@ -4,6 +4,17 @@ const toggleButton = document.querySelector("#toggle");
 
 let mode = "characters"
 
+toggleButton.addEventListener('click', () => {
+
+    if(mode === "characters") {
+        mode = "words"
+        
+    } else {
+
+    }
+
+})
+
 input.addEventListener("input", () => {
 
     let count = 0;
