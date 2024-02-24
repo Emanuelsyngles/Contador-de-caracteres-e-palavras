@@ -7,10 +7,11 @@ let mode = "characters"
 toggleButton.addEventListener('click', () => {
 
     if(mode === "characters") {
-        mode = "words"
-        
+        mode = "words";
+        toggleButton.textContent = "Contar caracteres";
     } else {
-
+        mode = "characters"
+        toggleButton.textContent = "Contar palavras"
     }
 
 })
@@ -25,7 +26,7 @@ input.addEventListener("input", () => {
         counter.textContent = `${count} caractere(s)`
         
     }else {
-
+        
     }
 
 })
