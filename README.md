@@ -9,7 +9,7 @@
  que estão nele.
 
 ## Status
---  Projeto monibank concluído 🎯
+--  Projeto contador de palavras e caracteres concluído 🎯
 
 
  ## Utilize o projeto clicando no link abaixo: 
