@@ -8,6 +8,10 @@
  Você quer que seu texto não ultrapasse alguma quantidade de caracteres, esse projeto irá fazer justamente isso irá contar os caracteres juntamente com as palavras
  que estão nele.
 
+## Status
+--  Projeto monibank concluído 🎯
+
+
  ## Utilize o projeto clicando no link abaixo: 
 -[Projeto](https://contadorcaracteresepalavras.netlify.app/)
 
